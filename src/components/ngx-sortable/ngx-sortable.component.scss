@@ -1,8 +1,5 @@
 .sortable-container {
     width: 100%;
-    border: 1px solid #d9d9d9;
-    ;
-    border-radius: 3px;
     .sortable-header {
         width: auto;
         padding: 5px;
@@ -60,10 +57,6 @@
             background: rgba(225, 219, 250, 0.5);
             opacity: 0.5px;
             border: 2px dotted rgb(225, 219, 250);
-        }
-        .active {
-            background: #3f94e9 !important;
-            color: white;
         }
     }
 }
